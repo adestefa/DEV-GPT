@@ -64,7 +64,7 @@ Evaluate plan.txt
 ## Live Preview (ASCII Mockup)
 
 Here's what using DEV-GPT looks like inside ChatGPT:
-
+```plaintext
 ╭─────────────────────────────── ChatGPT + Canvas (DEV-GPT) ───────────────────────────────╮
 │                                                                                           │
 │  🧠 DEV-GPT: Hello! I’ve loaded `plan.txt` and parsed the following project scope:       │
@@ -99,6 +99,6 @@ Here's what using DEV-GPT looks like inside ChatGPT:
 │                                                                                             │
 │  ...                                                                                         │
 ╰─────────────────────────────────────────────────────────────────────────────────────────────╯
-
+```
 
 DEV-GPT uses your `plan.txt` to take over the Project Space like a mini IDE.
