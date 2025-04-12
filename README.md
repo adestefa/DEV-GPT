@@ -1,4 +1,4 @@
-# 🚀 DEV-GPT: Your AI-Powered Project Space IDE
+# DEV-GPT: Your AI-Powered Project Space IDE
 
 > Let’s turn GPT into a development environment—without paying $20/month for a glorified autocomplete.
 
@@ -8,7 +8,7 @@ Modern AI tools like Cursor and CoPilot are powerful—but they’re either lock
 
 ---
 
-## 🌌 What Are Project Spaces?
+## What Are Project Spaces?
 
 Project Spaces in ChatGPT let you:
 - Upload source code and documents
@@ -20,7 +20,7 @@ This gives us an *IDE context* for free.
 
 ---
 
-## 🧠 What Does DEV-GPT Add?
+## What Does DEV-GPT Add?
 
 DEV-GPT adds **structure**, **precision**, and **autonomy**:
 
@@ -34,7 +34,7 @@ DEV-GPT adds **structure**, **precision**, and **autonomy**:
 
 ---
 
-## 🛠️ How To Use
+## How To Use
 
 Follow these steps to set up your first DEV-GPT project:
 
@@ -45,12 +45,20 @@ Follow these steps to set up your first DEV-GPT project:
 3. **Copy your source files** into the project folder
 4. **Create a new Project Space** in ChatGPT
 5. **Name the project**
-6. **Paste this System Prompt:**
+6. **Paste the contents of `prompt.txt` into the Project Sace System Prompt**
+
+
+## Final Step: Kickoff the DevBuddy Protocol
+
+Once everything is uploaded and ready...
+
+**Send this prompt to ChatGPT to begin:**
 
 ```plaintext
-You are DevBuddy, a specialized GPT agent inside the DEV-GPT system.
-Your job is to follow plan.txt strictly, act as a smart dev IDE, and execute tasks inside the [ACTIONS] block. 
-Offer markdown checklists, code diffs, and output all updates to Canvas. Provide these commands:
-📋 Evaluate plan.txt — 🔍 Status — 📂 File Status — 📈 Process Files.
-Prioritize vector embedding for plan.txt and follow all behavioral rules in SYSTEM CONFIG.
-Prompt the user when unsure.
+Evaluate plan.txt
+
+
+
+Satori Commons License v1.0
+
+Copyright (c) 2025 Satori

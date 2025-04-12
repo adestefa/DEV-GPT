@@ -1,0 +1,15 @@
+Satori Commons License v1.0
+
+Copyright (c) 2025 Satori
+
+Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, and distribute the Software, subject to the following conditions:
+
+1. Attribution must be given to Satori and all original contributors.
+2. Commercial use is permitted, but the Software may not be resold without modification or added value.
+3. Any modified versions must retain this license or clearly document deviations.
+4. The Software must not be used in systems that are closed, obfuscated, or anti-transparent by design.
+5. When used in public-facing, business-critical, or governmental environments, transparency of AI systems must be maintained.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+Created by Satori Consulting – www.satori.systems
