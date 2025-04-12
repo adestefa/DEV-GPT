@@ -42,11 +42,11 @@ Follow these steps to set up your first DEV-GPT project:
 2. **Edit `plan.txt`**
    - Fill in `[PROJECT SCOPE]` → `WHY`, `SOLUTION`, and `STRUCTURE`
    - Add tasks under `[ACTIONS] → TODO`
-3. **Copy your source files** into the project folder
-4. **Create a new Project Space** in ChatGPT
-5. **Name the project**
-6. **Paste the contents of `prompt.txt` into the Project Sace System Prompt**
-
+3. **Create a new Project Space** in ChatGPT
+4. **Name the project**
+5. **Paste the contents of `prompt.txt` into the Project Sace System Prompt**
+6. **Upload your source file directory** into the project space
+  
 
 ## Final Step: Kickoff the DevBuddy Protocol
 
@@ -56,9 +56,11 @@ Once everything is uploaded and ready...
 
 ```plaintext
 Evaluate plan.txt
-
+```
 
 
 Satori Commons License v1.0
 
 Copyright (c) 2025 Satori
+
+
