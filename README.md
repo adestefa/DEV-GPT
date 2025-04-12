@@ -59,8 +59,46 @@ Evaluate plan.txt
 ```
 
 
-Satori Commons License v1.0
-
-Copyright (c) 2025 Satori
 
 
+## Live Preview (ASCII Mockup)
+
+Here's what using DEV-GPT looks like inside ChatGPT:
+
+╭─────────────────────────────── ChatGPT + Canvas (DEV-GPT) ───────────────────────────────╮
+│                                                                                           │
+│  🧠 DEV-GPT: Hello! I’ve loaded `plan.txt` and parsed the following project scope:       │
+│                                                                                           │
+│  • WHY: You're building a lightweight AI IDE alternative using Project Spaces             │
+│  • SOLUTION: Use plan.txt + vectorization to guide GPT in structured dev mode             │
+│                                                                                           │
+│  ✅ Let’s begin. Here’s your active TODO list:                                             │
+│                                                                                           │
+│  [ ] 1. Vectorize uploaded documents using Vectorizing Hits list                          │
+│  [ ] 2. Output interactions should be directed to the canvas to provide editor features   │
+│  [ ] 3. Obey plan.txt strictly as project driver                                           │
+│  [ ] 4. Provide static commands: Evaluate, Status, File Status, Process Files             │
+│                                                                                           │
+│  🔹 Type `📋 Evaluate plan.txt` again at any time to reparse.                              │
+│                                                                                           │
+│──────────────────────── Sticky Menu: ────────────────────────────                        │
+│                                                                                           │
+│  📋 Evaluate plan.txt     🔍 Status     📂 File Status     📈 Process Files                │
+│                                                                                           │
+╰───────────────────────────────────────────────────────────────────────────────────────────╯
+
+📝 Canvas Panel (auto-opened by DEV-GPT for editing)
+
+╭───────────────────────────────────────── plan.txt ─────────────────────────────────────────╮
+│                                                                                             │
+│  [x] 1. Vectorize uploaded documents...    ← ✅ Marked as done by DEV-GPT                  │
+│                                                                                             │
+│  [PROJECT SCOPE]                                                                   🔍        │
+│  WHY: Replace Cursor with GPT-native IDE using plan.txt and project memory                 │
+│  SOLUTION: Vector-aware assistant with markdown TODO and live code edits                   │
+│                                                                                             │
+│  ...                                                                                         │
+╰─────────────────────────────────────────────────────────────────────────────────────────────╯
+
+
+DEV-GPT uses your `plan.txt` to take over the Project Space like a mini IDE.
